@@ -36,7 +36,7 @@
   
   
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,react)](https://skills.thijs.gg)
+ [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,react, MySql)](https://skills.thijs.gg)
 </div>
 
 
