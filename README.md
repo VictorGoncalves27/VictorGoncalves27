@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F5959size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor.+Bem+vindo(a)!;Moro+em+São+Paulo+🗺️+;Sou+desenvolvedor+Jr.;+Sinta-se+à+vontade!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor.+Bem+vindo(a)!;Moro+em+São+Paulo+🗺️+;Sou+desenvolvedor+Jr.;+Sinta-se+à+vontade!;)](https://git.io/typing-svg)
 
 #### Sobre mim
 - ✔️ Busco oportunidade de trabalho em programação e desenvolvimento web.
@@ -40,6 +40,6 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F5959&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 
 </div>
