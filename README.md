@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-victorgs199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgs199@gmail.com)](victorgs199@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://https://www.instagram.com/vtr.goncalves/)](https://www.instagram.com/vtr.goncalves/)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F5959&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 
@@ -30,8 +30,8 @@
 
   <div align="center">  
   
-   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/VictorGoncalves27?cardType=github&Background=0D1117&Text=0F5959&Title=0F5959&Border=014034&Ring=0F5959&width=41%&height=195px]https://git.io/awesome-stats-card" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncalves27&layout=compact&hide_border=false&border_color=0F5959&title_color=0C9354&text_color=00bfbf&bg_color=0d1117" />
+   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/VictorGoncalves27?cardType=github&Background=0D1117&Text=0F5959&Title=0F5959&Border=FF0000&Ring=0F5959&width=41%&height=195px]https://git.io/awesome-stats-card" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncalves27&layout=compact&hide_border=false&border_color=FF0000&title_color=0F5959&text_color=00bfbf&bg_color=0d1117" />
 <div/>
   
   
