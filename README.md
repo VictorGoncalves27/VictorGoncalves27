@@ -30,8 +30,8 @@
 
   <div align="center">  
   
-   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/VictorGoncalves27?cardType=github&Background=0D1117&Text=0F5959&Title=0F5959&Border=FF0000&Ring=0F5959&width=41%&height=195px]https://git.io/awesome-stats-card" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncalves27&layout=compact&hide_border=false&border_color=FF0000&title_color=0F5959&text_color=00bfbf&bg_color=0d1117" />
+   <img width="41%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/VictorGoncalves27?cardType=github&Background=0D1117&Text=0710DB&Title=0710DB&Border=FF0000&Ring=0710DB&width=41%&height=195px]https://git.io/awesome-stats-card" />
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorGoncalves27&layout=compact&hide_border=false&border_color=FF0000&title_color=0710DB&text_color=0710DB&bg_color=0d1117" />
 <div/>
   
   
