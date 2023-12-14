@@ -1,10 +1,12 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor.+Bem+vindo(a)!;Moro+em+São+Paulo+🗺️+;Sou+desenvolvedor+Jr.;+Sinta-se+à+vontade!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Victor.+Seja+Bem+vindo(a)!;Moro+em+São+Paulo+🗺️+;Sou+desenvolvedor+Jr.;+Sinta-se+à+vontade!;)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 #### Sobre mim
-- ✔️ Busco oportunidade de trabalho em programação e desenvolvimento web.
-- ✔️  Atualmente estudo desenvolvimento Front-end e Back-end.
-- ✔️ Apaixonado por  programação.
+- ✅ Busco oportunidade de trabalho em programação e desenvolvimento web.
+- ✅ Atualmente estudo desenvolvimento Front-end e Back-end.
+- ✅ Apaixonado por  programação.
 
 
 #### 💬 Encontre-me em outro lugar
@@ -12,8 +14,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-victorgs199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgs199@gmail.com)](victorgs199@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://https://www.instagram.com/vtr.goncalves/)](https://www.instagram.com/vtr.goncalves/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 
