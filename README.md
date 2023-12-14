@@ -12,7 +12,7 @@
 #### 💬 Encontre-me em outro lugar
 
 
-[![Gmail Badge](https://img.shields.io/badge/-victorgs199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorgs199@gmail.com)](victorgs199@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Victorgs199@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Victorgs199@gmail.com)](Victorgs199@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://https://https://www.instagram.com/vtr.goncalves/)](https://www.instagram.com/vtr.goncalves/)
 
 
