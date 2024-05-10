@@ -36,7 +36,15 @@
   
   
   
- [![Minhas habilidades](https://skills.thijs.gg/icons?i=html,css,js,figma,react,mysql,python)](https://skills.thijs.gg)
+ ![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
+![CSS3](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=30A3DC)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=30A3DC)
+![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge&logo=git&logoColor=30A3DC) 
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=30A3DC)
+
+
 </div>
 
 
